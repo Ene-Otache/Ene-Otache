@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ene 👋
 
-<!--
-**Ene-Otache/Ene-Otache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying **Cybersecurity**, with growing interests across several areas of the field.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying: Cybersecurity and SOC Analysis
+- 🔍 Interested in: network engineering, OSINT investigation, malware analysis, digital forensics, and penetration testing
+- 🌱 I love learning new things — always exploring a new tool, technique, or corner of security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I've Worked With
+- 🌐 Network Engineering: Wireshark, Cisco Packet Tracer, GNS3, Nmap
+- 🕵️ OSINT Investigation: Maltego, theHarvester, Shodan, SpiderFoot
+- 🦠 Malware Analysis: Ghidra, IDA Pro, Cuckoo Sandbox, PEStudio, VirusTotal
+- 🔬 Digital Forensics: Autopsy, The Sleuth Kit, SIFT Workstation, FTK Imager
+- 🛠️ Penetration Testing: Kali Linux, Burp Suite, Metasploit, Nmap
+
+## What I'm Working On
+- 🕵️ A digital forensics CTF case study — examining a forensic disk image, recovering deleted files, and reconstructing a timeline of activity using Autopsy and Sleuth Kit
+- 📄 Documenting forensic methodology: hashing/integrity verification, triage, evidence discovery, deleted data recovery, and timeline analysis
+
+## Let's Connect
+- 📫 Email: Mmesomaraphael05@gmail.com
